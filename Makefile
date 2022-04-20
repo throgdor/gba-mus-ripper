@@ -1,6 +1,6 @@
 # On Windows
-CPPC=i686-w64-mingw32-g++.exe -std=gnu++11
-CC=i686-w64-mingw32-gcc.exe -std=c99
+CPPC=x86_64-w64-mingw32-g++ -std=gnu++11
+CC=x86_64-w64-mingw32-gcc -std=c99
 
 # On Linux
 #CPPC=g++ -std=gnu++11
